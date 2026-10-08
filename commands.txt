@@ -1,0 +1,10 @@
+3) git add .
+4) git commit -m "init commit"
+5) git checkout -b feature/swechselberger
+7) git checkout main
+8) git merge feature/swechselberger
+9) git Status
+10) git log
+11) Dabei bekommt der Computer zwei verschiedene Versionen von einer Datei und weiß nicht welche der beiden Versionen er benutzen sollte.
+12) Ein Merge-Konflikt ist ein Konflikt, wobei zwei seperate Branchen, die Veränderungen in derselben Datei vorgenommen haben, ins
+Main gemerged werden.
