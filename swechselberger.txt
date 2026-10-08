@@ -1,0 +1,2 @@
+Mein Name ist Samuel Wechselberger.
+Ich lerne Git.
